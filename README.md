@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irnmonstronk" alt="irnmonstronk" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Ruby on Rails, The Odin Project**
+- 🌱 I’m currently learning **Ruby on Rails, The Odin Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IrnMonStronk?tab=repositories](https://github.com/IrnMonStronk?tab=repositories)
 
